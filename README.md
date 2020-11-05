@@ -1,4 +1,4 @@
-# docker-bitcoincash
+# docker-bchn
 Docker Image for Bitcoin Cash using BCHN Client. Cross compatible to Bitcoin ABC data before November 15 2020 fork. Installing after the fork, a full sync will be required.
 
 ### Quick Start
